@@ -45,10 +45,8 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 
 ---
 
-**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
-
+<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/Felipe7g" target="_blank">Felipe7g</a> </h4>
 
 ---
 
-<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/Felipe7g" target="_blank">Felipe7g</a> </h4>
  
