@@ -37,7 +37,7 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
     <img alt="Tela casos" title="" src="imgs/print4.png">
     <img alt="splash screen" title="" src="imgs/print5.png">
     <img alt="menu mobile" title="" src="imgs/print6.png">
-    <img alt="tela contato" title="" src="imgs/print8.png">
+    <img alt="caso mobile" title="" src="imgs/print7.png">
     <img alt="tela email" title="" src="imgs/print9.png">
     <img alt="tela insombia" title="" src="imgs/print-insomnia.png">
 </p>
